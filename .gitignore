@@ -1,4 +1,5 @@
 data_collection/data
+data_collection/tests
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
